@@ -1,0 +1,86 @@
+@media (min-width: 1200px) { 
+
+
+}
+  
+    
+  
+
+@media(min-width:992px) and (max-width:1199px) {
+   
+  
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    
+}
+
+@media(min-width:300px) and (max-width:767px) {
+    footer{
+        text-align: center !important;
+    }
+     
+    h2 ,h3 h4 {
+        font-size:20px !important;
+    }
+
+   .hidden-sm ,.hidden-xs
+   {
+
+    display: none;
+   }
+   .download .down-btn{
+    padding: 10px 15px;
+
+    font: 14px italic;
+
+   }
+
+   .content h1 {
+
+    font-size: 30px;
+
+   }
+
+   .content p {
+    font-size: 15px;
+
+   }
+
+header ,.header-row{
+
+    height: 86vh !important;
+}
+.one-serv h4{
+    font-size: 25px;
+}
+
+.footer-content h4 {
+
+    margin-top: 20px;
+}
+
+.footer-social {
+    margin-left: 30%;
+}
+
+.download-section p {
+
+    font-size: 16px;
+
+}
+.owl-item .item img {
+    height: auto;
+    width: 43%;
+}
+
+.Heading .text-back {
+    font-size: 61px;
+
+}
+
+header {
+    min-height: 50vh;
+}
+}
